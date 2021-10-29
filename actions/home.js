@@ -15,7 +15,7 @@ function home(){
             type: 'list',
             name: 'home',
             message: 'Please Choose an action below',
-            choices: ['View all departments', 'View all roles', 'View all employees', 'Add a deparment', 'Add a role', 'Add an employee', 'Update an employee role']
+            choices: ['View all departments', 'View all roles', 'View all employees', 'Add a department', 'Add a role', 'Add an employee', 'Update an employee role']
         }
     ]).then((answers) => {
         switch(answers.home){
