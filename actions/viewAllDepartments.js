@@ -1,5 +1,6 @@
 const db = require('../config/connection');
 const cTable = require('console.table');
+const chalk = require('chalk');
 
 function viewAllDepartments(){
     const home = require('./home.js');

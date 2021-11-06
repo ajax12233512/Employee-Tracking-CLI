@@ -37,7 +37,7 @@ function home(){
             case 'Add an employee': 
                 addAnEmployee();
                 break;
-            case 'Update and employee role': 
+            case 'Update an employee role': 
                 updateEmployeeRole();
                 break;
         }
