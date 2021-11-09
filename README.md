@@ -1,6 +1,9 @@
 # Employee-Tracking-CLI
 Uses Mysql database to maintain employees in a company
 
+# Demonstration Video
+https://youtu.be/rzS5h2yfhQU
+
 # Description 
 This program is made to be able to add, update, and view the different departments and employees of a company.
 
